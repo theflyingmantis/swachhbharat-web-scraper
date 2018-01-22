@@ -1,0 +1,9 @@
+1. Activate virtual environment by source/venv/bin/activate.
+2. Navigate swachhbharat project and run python main.py
+3. Data will come under data folder.
+
+We can easily extend it to even sub districts too. Instructions written in
+spider file for the same.	
+
+By Abhinav Rai
+https://github.com/theflyingmantis
